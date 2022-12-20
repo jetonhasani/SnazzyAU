@@ -1,4 +1,4 @@
-👋 Hi, I’m @SnazzyAU, I am 16 years old living in Australia.
+👋 Hi, I’m @SnazzyAU, I am 17 years old living in Australia.
 
 🔨 Current projects:
 - snazz_drugs: FiveM's most interactive drug system.
