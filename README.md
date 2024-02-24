@@ -1,8 +1,6 @@
 👋 Hi, I’m @SnazzyAU, I am 18 years old living in Australia.
 
 🔨 Current projects:
-- snazz_drugs: FiveM's most interactive drug system.
-   - Release date: TBD
 - snazz_stores: FiveM's most interactive store robbery system.
    - Release date: TBD
 
